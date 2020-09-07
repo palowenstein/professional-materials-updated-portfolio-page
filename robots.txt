@@ -1,0 +1,10 @@
+Sitemap: https://pierreandrelowenstein.com/sitemap.xml
+
+User-agent: *
+Disallow: /
+ 
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: CatchBot
+Disallow: /
