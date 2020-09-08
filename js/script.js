@@ -76,12 +76,12 @@
 			scrollingSpeed: 280,
 			menu: '#menu, #menuMain',
 			
-			anchors: ['About', 'Services', 'Skills', 'Resume', 'Portfolio', 'Awards', 'Testimonials', 'Clients', 'Contact'],
+			anchors: ['Home', 'Mobile', 'Portfolio', 'Profile', 'Skills', 'Contact'],
 			loopTop: false,
 			loopBottom: false,
 			navigation: {
 				'position': 'left',
-				'tooltips': ['Banner Section', 'Skill Section', 'Apps Section', 'Profile Section', 'Web Section', 'Clients Section', 'Clients Section', 'News Section', 'Contact Section']
+				'tooltips': ['Banner Section', 'Mobile Section', 'Portfolio Section', 'Profile Section', 'Skills Section', 'Contact Section']
 			},
 			afterRender: function(){
 				$('#pp-nav').addClass('custom');

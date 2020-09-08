@@ -14,8 +14,8 @@
   3.  Header
   4.  Content
 
-	  4.1 Slide About
-	  4.2 Slide Services
+	  4.1 Slide About (Banner)
+	  4.2 Slide Mobile
 	  4.3 Slide Skills
 	  4.4 Slide Resume
 	  4.5 Slide Portfolio
@@ -1964,7 +1964,7 @@ ul,li{
 /*** 
 
 ====================================================================
-	Services Section
+	SKills Section
 ====================================================================
 
 ***/
@@ -2052,16 +2052,16 @@ ul,li{
 /*** 
 
 ====================================================================
-	Apps Section
+	Mobile Section
 ====================================================================
 
 ***/
 
-.apps-section{
+.mobile-section{
 	padding:170px 0px 60px;
 }
 
-.apps-section .pattern-layer{
+.mobile-section .pattern-layer{
 	position: absolute;
     right: 60px;
     bottom:0;
@@ -2070,28 +2070,28 @@ ul,li{
     background-repeat: no-repeat;
 }
 
-.apps-section .image-column{
+.mobile-section .image-column{
 	position:relative;
 	margin-bottom:40px;
 }
 
-.apps-section .image-column .inner-column{
+.mobile-section .image-column .inner-column{
 	position:relative;
 	padding-left:40px;
 	padding-top:60px;
 	padding-right:20px;
 }
 
-.apps-section .image-column .image{
+.mobile-section .image-column .image{
 	position:relative;
 }
 
-.apps-section .image-column .image a{
+.mobile-section .image-column .image a{
 	position:relative;
 	display:block;
 }
 
-.apps-section .image-column .image a:after{
+.mobile-section .image-column .image a:after{
 	position:absolute;
 	content:'';
 	left:0px;
@@ -2106,7 +2106,7 @@ ul,li{
 	transform:skewX(-10deg);
 }
 
-.apps-section .image-column .talk-box{
+.mobile-section .image-column .talk-box{
 	position:absolute;
 	right:-12px;
 	bottom:30px;
@@ -2117,7 +2117,7 @@ ul,li{
 	background-color:#ffdb66;
 }
 
-.apps-section .image-column .talk-box .number{
+.mobile-section .image-column .talk-box .number{
 	position:relative;
 	font-weight:700;
 	line-height:1em;
@@ -2126,7 +2126,7 @@ ul,li{
 	font-family: 'Poppins', sans-serif;
 }
 
-.apps-section .image-column .talk-box .projects{
+.mobile-section .image-column .talk-box .projects{
 	position:relative;
 	color:#07335d;
 	font-size:20px;
@@ -2137,7 +2137,7 @@ ul,li{
 	padding-bottom:30px;
 }
 
-.apps-section .image-column .talk-box .projects:before{
+.mobile-section .image-column .talk-box .projects:before{
 	position: absolute;
     content: "+";
     right: 0px;
@@ -2146,13 +2146,13 @@ ul,li{
     font-weight: 300;
 }
 
-.apps-section .image-column .image img{
+.mobile-section .image-column .image img{
 	position:relative;
 	width:100%;
 	display:block;
 }
 
-.apps-section .image-column .inner-column:before{
+.mobile-section .image-column .inner-column:before{
 	position:absolute;
 	content:'';
 	left:-80px;
@@ -2162,35 +2162,37 @@ ul,li{
 	background:url(../images/icons/pattern-3.png) no-repeat;
 }
 
-.apps-section .content-column{
+.mobile-section .content-column{
 	position:relative;
 	margin-bottom:40px;
 }
 
-.apps-section .content-column .sec-title{
+.mobile-section .content-column .sec-title{
 	margin-bottom:20px;
 }
 
-.apps-section .content-column .inner-column{
+.mobile-section .content-column .inner-column{
 	position:relative;
 	padding-top:140px;
 	padding-left:100px;
 	padding-right:70px;
 }
 
-.apps-section .content-column .bold-text{
+.mobile-section .content-column .bold-text{
 	position:relative;
 	font-size:16px;
-	color:#07335d;
+	color:#ffffff;
+/*	color:#07335d; */
 	line-height:1.8em;
 	font-weight:600;
 	margin-bottom:20px;
 }
 
-.apps-section .content-column .text{
+.mobile-section .content-column .text{
 	position:relative;
 	font-size:16px;
-	color:#5a7797;
+	color: #94afc7;
+/*	color:#5a7797;	*/
 	line-height:1.7em;
 	font-weight:400;
 }
@@ -2340,12 +2342,12 @@ ul,li{
 
 ***/
 
-.web-section{
+.portfolio-section{
 	padding-top:100px;
 	padding-bottom:80px;
 }
 
-.web-section .pattern-layer{
+.portfolio-section .pattern-layer{
 	position:absolute;
 	left:-40px;
 	bottom:80px;
@@ -2355,38 +2357,41 @@ ul,li{
 	background:url(../images/icons/pattern-4.png) no-repeat;
 }
 
-.web-section .content-column{
+.portfolio-section .content-column{
 	position:relative;
 }
 
-.web-section .content-column .inner-column{
+.portfolio-section .content-column .inner-column{
 	position:relative;
 	padding-top:60px;
 }
 
-.web-section .content-column .sec-title{
+.portfolio-section .content-column .sec-title{
 	margin-bottom:25px;
 }
 
-.web-section .content-column .text{
+.portfolio-section .content-column .text{
 	position:relative;
-	color:#5a7797;
+	color: #94afc7;
+/*	color:#5a7797;	*/
 	font-size:16px;
 	line-height:1.7em;
 	padding-right:60px;
 	margin-bottom:55px;
 }
 
-.web-section .content-column .project-detail{
+
+.portfolio-section .content-column .project-detail{
 	position:relative;
-	color:#07335d;
+	color:#ffffff;
+/*	color:#07335d; */
 	font-weight:700;
 	font-size:16px;
 	padding-right:20px;
 	text-transform:uppercase;
 }
 
-.web-section .content-column .project-detail .arrow{
+.portfolio-section .content-column .project-detail .arrow{
 	position:absolute;
 	left:100%;
 	width:28px;
@@ -2398,34 +2403,34 @@ ul,li{
 	transition:all 300ms ease;
 }
 
-.web-section .content-column .project-detail:hover{
+.portfolio-section .content-column .project-detail:hover{
 	color:#f25850;
 }
 
-.web-section .image-column{
+.portfolio-section .image-column{
 	position:relative;
 }
 
-.web-section .image-column .inner-column{
+.portfolio-section .image-column .inner-column{
 	position:relative;
 }
 
-.web-section .image-column .image-outer{
+.portfolio-section .image-column .image-outer{
 	position:relative;
 	overflow:hidden;
 }
 
-.web-section .image-column .image{
+.portfolio-section .image-column .image{
 	position:relative;
 }
 
-.web-section .image-column .image img{
+.portfolio-section .image-column .image img{
 	position:relative;
 	width:100%;
 	display:block;
 }
 
-.web-section .image-column:before{
+.portfolio-section .image-column:before{
 	position:absolute;
 	content:'';
 	right:-100px;
@@ -2435,23 +2440,24 @@ ul,li{
 	background:url(../images/icons/pattern-5.png) no-repeat;
 }
 
-.web-section .prod-tabs{
+.portfolio-section .prod-tabs{
 	position:relative;
 }
 
-.web-section .prod-tabs .tab-btns{
+.portfolio-section .prod-tabs .tab-btns{
 	position:relative;
 	text-align:center;
 	margin-top:130px;
 }
 
-.web-section .prod-tabs .tab-btns .tab-btn{
+.portfolio-section .prod-tabs .tab-btns .tab-btn{
 	position:relative;
 	display:block;
 	width:24%;
 	font-size:20px;
 	background:none;
-	color:#375678;
+	color: #ffdb66; /* Jaune pour les chiffres */
+/*	color:#375678;	*/
 	text-transform:capitalize;
 	font-weight:700;
 	line-height:24px;
@@ -2464,21 +2470,28 @@ ul,li{
 	transition:all 500ms ease;
 }
 
-.web-section .prod-tabs .tab-btns .tab-btn span{
+.portfolio-section .prod-tabs .tab-btns .tab-btn span{
 	font-size:16px;
 	display:block;
+	color: #ffffff;
 }
 
-.web-section .prod-tabs .tab-btns .tab-btn:hover,
-.web-section .prod-tabs .tab-btns .tab-btn.active-btn{
+
+
+.portfolio-section .prod-tabs .tab-btns .tab-btn:hover,
+.portfolio-section .prod-tabs .tab-btns .tab-btn.active-btn{
 	opacity:1;
 }
 
-.web-section .prod-tabs .tabs-content{
+.portfolio-section .prod-tabs .tabs-content{
 	position:relative;	
 }
 
-.web-section .prod-tabs .tabs-content .tab{
+.portfolio-section .prod-tabs .tab-btns .tab-btn span:hover{
+	color: #f25850;
+}
+
+.portfolio-section .prod-tabs .tabs-content .tab{
 	position:relative;
 	display:none;
 	-webkit-transition:all 600ms ease;
@@ -2489,7 +2502,7 @@ ul,li{
 	transform:translateY(90px);
 }
 
-.web-section .prod-tabs .tabs-content .tab.active-tab{
+.portfolio-section .prod-tabs .tabs-content .tab.active-tab{
 	display:block;
 	transform:translateY(0px);
 }
@@ -3414,8 +3427,12 @@ select:focus{
 	background:#ffffff;
 }
 
-.dark-layout .copyright{
+.dark-layout .copyright a{
 	color:#ffffff;
+}
+
+.dark-layout .copyright a:hover{
+	color:#f25850;
 }
 
 .dark-layout .gradient-color{
