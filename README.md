@@ -1,52 +1,98 @@
-# Unit 08 Project 1 Homework: Professional Materials
+## #hw8-professional-materials-updated-portfolio-page 
 
-## Requirements
-:heavy_check_mark: * Portfolio: PJ1 + 2 homework assignments -> 6 HW Repo pinned / Project #1 is private and covered by NDA.
-:heavy_check_mark: * GitHub profile: pinned repositories (PJ1 + 2 assignments) -> 6 HW Repo pinned / Project #1 is private and covered by NDA.
-:heavy_check_mark: * updated resume
-* updated LinkedIn
+<h3>Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio</h3>
+<p>Github Repository Page: https://github.com/palowenstein/hw8-professional-materials-updated-portfolio-page</p>
+<p>Official Deployment Page: http://pierreandrelowenstein.com</p>
 
-##Portfolio
+# Table of Contents
+  * [Screenshot](#Screenshot)
+  * [Overview](#Overview)
+  * [Details](#Details)
+	* [Portfolio](#Validation)
+  	* [Resume](#Validation)
+  	* [GitHub](#Validation)
+  	* [Linkedin](#Validation)
+  * [References](#References)
+  * [License](#License)
+  * [Contact](#Contact)
 
-1. Full name
-2. Links: :heavy_check_mark: 1) GitHub profile :heavy_check_mark: 2) LinkedIn :heavy_check_mark: 3) email address :heavy_check_mark: 4) phone number
-3. Link to resume PDF
-4. List of 3-5 projects must incl.:
-    a Project title
-    b Link to the deployed version
-    c Link to the GitHub repository
-    d Screenshot of the deployed application
-5. Free of grammar and spelling mistakes
+## Screenshot (GIF Animation)
+![Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio (GIF)](./assets/pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
 
-##GitHub
-https://github.com/palowenstein
-<ul style="list-style-type: none;">
-<li>:heavy_check_mark: 1. Headshot</li>
-<li>:heavy_check_mark: 2. Bio</li>
-<li>:heavy_check_mark: 3. Location</li>
-<li>:heavy_check_mark: 4. Email</li>
-<li>:heavy_check_mark: 5. Link to portfolio</li>
-<li>:heavy_check_mark: 6. Pin 3-6 repositories (each projects deployed + link to deployed project in README)</li>
-<li>:heavy_check_mark: 7. Follow Classmates</li>
+## Overview
+<ul>
+<li>Custom online porfolio featuring assignments from weeks #1-#8, as well as earlier projects and an overrall description of the author's creative identity.</li>
+<li>Links to updated r&eacute;sum&eacute; (stored locally), GitHub, Linkedin, Twitter and other creative links.</li>
+<li>The GitHub profile with pinned repositories, the updated Linkedin profile and r&eacute;sum&eacute; are part of this homework assignement and should be graded as such.</li>
 </ul>
 
-8. README files:
-	a Title of app
-   	b Live link to deployed app
-	c List of technologies used (See Section 'References')
-   	d 1-2 sentences explaining what the app is (bullet points)
-   	e 2-3 Screenshots / gifs of the app
-   	f MIT License
-   	g Contact info: you + collaborators
+## Details
 
-:heavy_check_mark: 9. Commit history. Pinned repos at least 20 commits
+#Portfolio
+<ul>
+  <li>Includes full name, brief bio, screen shots, project details (...)</li>
+  <li>Links to GitHub profile, Linkedin Profile, professional e-mail address and phone number.</li>
+  <li>Links to PDF r&eacute;sum&eacute; stored locally</li>
+  <li>Listed Projects include, respectively, a title, a brief description, a screenshot as well as links to their respective GitHub repository and deployment page.</li>
+</ul>
 
-###Resume
-1. Clear, Concise Compelling resume:
-	a a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub
-	b technical skills section, with all programming languages and technologies listed
-	c 3 of your strongest projects/homework assignments with brief description, languages used, and URL
+#Resume
+<ul>
+  <li>2 page r&eacute;sum&eacute;.</li>
+  <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
+  <li>Technical skills section detailing fluency with all programming languages encountered to date.</li>
+  <li>Links to noteworthy previous assignments / works.</li>
+</ul>
 
-###LinkedIn
-:heavy_check_mark: Strong bio statement, photo, links to Github, portfolio.
+#GitHub [https://github.com/palowenstein]
+<ul>
+  <li>:heavy_check_mark: 1. Headshot.</li>
+  <li>:heavy_check_mark: 2. Bio.</li>
+  <li>:heavy_check_mark: 3. Location.</li>
+  <li>:heavy_check_mark: 4. Email.</li>
+  <li>:heavy_check_mark: 5. Link to deployed portfolio.</li>
+  <li>:heavy_check_mark: 6. Pinned repositories.</li>
+  <li>:heavy_check_mark: 7. Follows Classmates.</li>
+  <li>:heavy_check_mark: 8. Read Me markdowns brought to date.</li>
+</ul>
 
+<ul>README files:
+  <li>Application Title with homework hierarchy (if applicable).</li>
+  <li>Link to deployed application.</li>
+  <li>List of technologies used (References section).</li>
+  <li>Overview of each application.</li>
+  <li>Screenshot, MIT License, Contact Information</li>
+</ul>
+
+#LinkedIn [https://www.linkedin.com/in/palowenstein/]
+<ul>
+  <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients</li>
+</ul> 
+
+<hr />
+
+##References
+<ul>
+<li>Robuta Personal OnePage Html-5 Responsive Template 1.0 [https://themeforest.net/item/robuta-personal-onepage-html-template/25847298]; <strong>heavily customized, rewritten for this assignement.</strong></li>
+<li>Jquery Library [https://jquery.com/]</li>
+<li>Bootstrap CSS [https://getbootstrap.com/]</li>
+<li>HTML5 Shiv [https://github.com/aFarkas/html5shiv]</li>
+<li>animate.css [https://animate.style/]</li>
+<li>Flat Icons [https://www.flaticon.com/]</li>
+<li>Font Awesome Icons [https://fontawesome.com/v4.7.0/icons/]</li>
+<li>Adobe Acrobat Pro [https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html]</li>
+<li>Visual Studio Code [https://code.visualstudio.com/]</li>
+<li>Sublime Text [https://www.sublimetext.com/]</li>
+</ul>
+
+##License
+<p>
+<a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
+</p>
+
+##Contact
+<p>
+<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+&nbsp;|&nbsp;
+<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+</p>
