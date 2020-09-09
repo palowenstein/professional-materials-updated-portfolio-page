@@ -1,6 +1,6 @@
 ## #hw8-professional-materials-updated-portfolio-page 
 
-<h3>Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio</h3>
+<h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/hw8-professional-materials-updated-portfolio-page</p>
 <p>Official Deployment Page: http://pierreandrelowenstein.com</p>
 
@@ -17,7 +17,7 @@
   * [Contact](#Contact)
 
 ## Screenshot (GIF Animation)
-![Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio (GIF)](./pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
+![Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio (GIF)](./pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
 
 ## Overview
 <ul>
