@@ -8,15 +8,15 @@
   * [Screenshot](#Screenshot)
   * [Overview](#Overview)
   * [Details](#Details)
-	* [Portfolio](#Validation)
-  	* [Resume](#Validation)
-  	* [GitHub](#Validation)
-  	* [Linkedin](#Validation)
+	* [Portfolio](#Portfolio)
+  	* [Resume](#Resume)
+  	* [GitHub](#GitHub)
+  	* [Linkedin](#Linkedin)
   * [References](#References)
   * [License](#License)
   * [Contact](#Contact)
 
-## Screenshot (GIF Animation)
+## Screenshot
 ![Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio (GIF)](./pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
 
 ## Overview
@@ -56,7 +56,7 @@
   <li>:heavy_check_mark: 8. Read Me markdowns brought to date.</li>
 </ul>
 
-<ul>README files:
+<ul>README files (Homework #1-#8):
   <li>:heavy_check_mark: Application Title with homework hierarchy (if applicable).</li>
   <li>:heavy_check_mark: Link to deployed application.</li>
   <li>:heavy_check_mark: List of technologies used (References section).</li>
