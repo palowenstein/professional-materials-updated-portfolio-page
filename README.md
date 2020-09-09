@@ -36,7 +36,7 @@
   <li>Listed Projects include, respectively, a title, a brief description, a screenshot as well as links to their respective GitHub repository and deployment page.</li>
 </ul>
 
-##Resume
+## Resume
 <ul>
   <li>2 page r&eacute;sum&eacute;.</li>
   <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
@@ -44,7 +44,7 @@
   <li>Links to noteworthy previous assignments / works.</li>
 </ul>
 
-##GitHub [https://github.com/palowenstein]
+## GitHub [https://github.com/palowenstein]
 <ul>
   <li>:heavy_check_mark: 1. Headshot.</li>
   <li>:heavy_check_mark: 2. Bio.</li>
@@ -64,14 +64,14 @@
   <li>:heavy_check_mark: Screenshot, MIT License, Contact Information</li>
 </ul>
 
-##LinkedIn [https://www.linkedin.com/in/palowenstein/]
+## LinkedIn [https://www.linkedin.com/in/palowenstein/]
 <ul>
   <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients<</li>
 </ul> 
 
 <hr />
 
-##References
+## References
 <ul>
 <li>Robuta Personal OnePage Html-5 Responsive Template 1.0 [https://themeforest.net/item/robuta-personal-onepage-html-template/25847298]; <strong>heavily customized, rewritten for this assignment.</strong></li>
 <li>Jquery Library [https://jquery.com/]</li>
@@ -85,12 +85,12 @@
 <li>Sublime Text [https://www.sublimetext.com/]</li>
 </ul>
 
-##License
+## License
 <p>
 <a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
 </p>
 
-##Contact
+## Contact
 <p>
 <a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
