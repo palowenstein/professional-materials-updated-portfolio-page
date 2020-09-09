@@ -1,6 +1,6 @@
 ## #hw8-professional-materials-updated-portfolio-page 
 
-<h3>Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio</h3>
+<h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/hw8-professional-materials-updated-portfolio-page</p>
 <p>Official Deployment Page: http://pierreandrelowenstein.com</p>
 
@@ -17,7 +17,7 @@
   * [Contact](#Contact)
 
 ## Screenshot (GIF Animation)
-![Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio (GIF)](./assets/pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
+![Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio (GIF)](./pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
 
 ## Overview
 <ul>
@@ -26,9 +26,9 @@
 <li>The GitHub profile with pinned repositories, the updated Linkedin profile and r&eacute;sum&eacute; are part of this homework assignement and should be graded as such.</li>
 </ul>
 
-## Details
+# Details
 
-#Portfolio
+## Portfolio
 <ul>
   <li>Includes full name, brief bio, screen shots, project details (...)</li>
   <li>Links to GitHub profile, Linkedin Profile, professional e-mail address and phone number.</li>
@@ -36,7 +36,7 @@
   <li>Listed Projects include, respectively, a title, a brief description, a screenshot as well as links to their respective GitHub repository and deployment page.</li>
 </ul>
 
-#Resume
+##Resume
 <ul>
   <li>2 page r&eacute;sum&eacute;.</li>
   <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
@@ -44,7 +44,7 @@
   <li>Links to noteworthy previous assignments / works.</li>
 </ul>
 
-#GitHub [https://github.com/palowenstein]
+##GitHub [https://github.com/palowenstein]
 <ul>
   <li>:heavy_check_mark: 1. Headshot.</li>
   <li>:heavy_check_mark: 2. Bio.</li>
@@ -57,23 +57,23 @@
 </ul>
 
 <ul>README files:
-  <li>Application Title with homework hierarchy (if applicable).</li>
-  <li>Link to deployed application.</li>
-  <li>List of technologies used (References section).</li>
-  <li>Overview of each application.</li>
-  <li>Screenshot, MIT License, Contact Information</li>
+  <li>:heavy_check_mark: Application Title with homework hierarchy (if applicable).</li>
+  <li>:heavy_check_mark: Link to deployed application.</li>
+  <li>:heavy_check_mark: List of technologies used (References section).</li>
+  <li>:heavy_check_mark: Overview of each application.</li>
+  <li>:heavy_check_mark: Screenshot, MIT License, Contact Information</li>
 </ul>
 
-#LinkedIn [https://www.linkedin.com/in/palowenstein/]
+##LinkedIn [https://www.linkedin.com/in/palowenstein/]
 <ul>
-  <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients</li>
+  <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients<</li>
 </ul> 
 
 <hr />
 
 ##References
 <ul>
-<li>Robuta Personal OnePage Html-5 Responsive Template 1.0 [https://themeforest.net/item/robuta-personal-onepage-html-template/25847298]; <strong>heavily customized, rewritten for this assignement.</strong></li>
+<li>Robuta Personal OnePage Html-5 Responsive Template 1.0 [https://themeforest.net/item/robuta-personal-onepage-html-template/25847298]; <strong>heavily customized, rewritten for this assignment.</strong></li>
 <li>Jquery Library [https://jquery.com/]</li>
 <li>Bootstrap CSS [https://getbootstrap.com/]</li>
 <li>HTML5 Shiv [https://github.com/aFarkas/html5shiv]</li>
