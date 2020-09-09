@@ -17,7 +17,7 @@
   * [Contact](#Contact)
 
 ## Screenshot (GIF Animation)
-![Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio (GIF)](./assets/pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
+![Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio (GIF)](./pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
 
 ## Overview
 <ul>
