@@ -44,8 +44,8 @@
   <li>Links to noteworthy previous assignments / works.</li>
 </ul>
 
-## GitHub [https://github.com/palowenstein]
-<ul>
+## GitHub
+<ul>[https://github.com/palowenstein]
   <li>:heavy_check_mark: 1. Headshot.</li>
   <li>:heavy_check_mark: 2. Bio.</li>
   <li>:heavy_check_mark: 3. Location.</li>
@@ -64,12 +64,10 @@
   <li>:heavy_check_mark: Screenshot, MIT License, Contact Information</li>
 </ul>
 
-## LinkedIn [https://www.linkedin.com/in/palowenstein/]
-<ul>
+## LinkedIn
+<ul>[https://www.linkedin.com/in/palowenstein/]
   <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients<</li>
 </ul> 
-
-<hr />
 
 ## References
 <ul>
