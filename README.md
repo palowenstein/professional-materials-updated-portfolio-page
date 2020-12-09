@@ -1,4 +1,4 @@
-## #hw8-professional-materials-updated-portfolio-page (updated 2020-11-18)
+## #hw8-professional-materials-updated-portfolio-page (updated 2020-12-09)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
