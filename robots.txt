@@ -1,4 +1,4 @@
-Sitemap: https://pierreandrelowenstein.com/sitemap.xml
+Sitemap: http://pierreandrelowenstein.com/sitemap.xml
 
 User-agent: *
 Disallow: /

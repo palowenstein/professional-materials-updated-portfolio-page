@@ -688,3 +688,35 @@
 	}
 	
 }
+
+/* Réglages Spécifiques */
+
+@media only screen and (max-width: 768px) {
+
+	.header .logo-box{
+		width: 50%;
+
+		/* position:relative;
+		left:50%;
+		z-index:10;
+		margin-left:-77px;
+		transition: all 500ms ease;
+		-moz-transition: all 500ms ease;
+		-webkit-transition: all 500ms ease;
+		-ms-transition: all 500ms ease;
+		-o-transition: all 500ms ease; */
+	}
+}
+
+@media only screen and (max-width: 599px) {
+
+	.header .language-box{
+		display: none;
+	}
+
+	.header .logo-box{
+		width: 50%;
+		left:35%;
+	}	
+
+}

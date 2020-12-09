@@ -1,7 +1,7 @@
-## #hw8-professional-materials-updated-portfolio-page 
+## #hw8-professional-materials-updated-portfolio-page (updated 2020-11-18)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
-<p>Github Repository Page: https://github.com/palowenstein/hw8-professional-materials-updated-portfolio-page</p>
+<p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
 <p>Official Deployment Page: http://pierreandrelowenstein.com</p>
 
 # Table of Contents
@@ -66,7 +66,7 @@
 
 ## LinkedIn
 <ul>[https://www.linkedin.com/in/palowenstein/]
-  <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients<</li>
+  <li>Headshot, full name, biography statement, up to date work history; includes links to Github, portfolio and former projects / clients.</li>
 </ul> 
 
 ## References
