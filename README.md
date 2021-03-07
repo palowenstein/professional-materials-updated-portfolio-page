@@ -1,8 +1,8 @@
-## #8-#16-professional-materials-updated-portfolio-page (updated 2021-03-06)
+## #8-#16-professional-materials-updated-portfolio-page (updated 2021-03-07)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
-<p>Official Deployment Page: http://pierreandrelowenstein.com</p>
+<p>Official Deployment Page: https://pierreandrelowenstein.com</p>
 
 # Table of Contents
   * [Screenshot](#Screenshot)
@@ -92,5 +92,5 @@
 <p>
 <a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
-<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+<a href="mailto:coder@pierreandrelowenstein.com" title="Courriel">Send me a 'courriel'</a>
 </p>
