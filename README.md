@@ -1,4 +1,4 @@
-## #hw8-professional-materials-updated-portfolio-page (updated 2020-12-09)
+## #8-#16-professional-materials-updated-portfolio-page (updated 2021-03-06)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
@@ -71,7 +71,7 @@
 
 ## References
 <ul>
-<li>Robuta Personal OnePage Html-5 Responsive Template 1.0 [https://themeforest.net/item/robuta-personal-onepage-html-template/25847298]; <strong>heavily customized, rewritten for this assignment.</strong></li>
+<li>Robuta Personal OnePage Html-5 Responsive Template 1.0 (paul_tf) [https://themeforest.net/item/robuta-personal-onepage-html-template/25847298]; <strong>heavily customized, rewritten for this assignment.</strong></li>
 <li>Jquery Library [https://jquery.com/]</li>
 <li>Bootstrap CSS [https://getbootstrap.com/]</li>
 <li>HTML5 Shiv [https://github.com/aFarkas/html5shiv]</li>
@@ -85,12 +85,12 @@
 
 ## License
 <p>
-<a href="./MITlicense.txt">MIT License</a> | Copyright © [2020] Pierre André Lowenstein
+<a href="./MITlicense.txt">MIT License</a> | Copyright © [2021] Pierre André Lowenstein
 </p>
 
 ## Contact
 <p>
-<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+<a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
 <a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
 </p>
