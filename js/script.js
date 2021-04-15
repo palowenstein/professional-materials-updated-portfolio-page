@@ -269,7 +269,7 @@
 	if ($('.variable-text').length) {
 		
 		$('.variable-text').typeIt({
-			 strings: ["Pierre Andr&eacute; Lowenstein<ul><hr><li>Full Stack Developer</li><li>Project Manager</li><li>Digital Delivery</li></ul>"],
+			 strings: ["Pierre Andr&eacute; Lowenstein<ul><hr><li>Full Stack Web Developer</li></ul>"],
 			 speed: 150,
 			 breakLines: true,
 			 loop:false,

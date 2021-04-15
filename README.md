@@ -1,11 +1,11 @@
-## #8-#16-professional-materials-updated-portfolio-page (updated 2021-03-07)
+## #8-#16-professional-materials-updated-portfolio-page (updated 2021-04-15)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
 <p>Official Deployment Page: https://pierreandrelowenstein.com</p>
 
 # Table of Contents
-  * [Screenshot](#Screenshot)
+  * [GIF](#Gif)
   * [Overview](#Overview)
   * [Details](#Details)
 	* [Portfolio](#Portfolio)
@@ -16,8 +16,8 @@
   * [License](#License)
   * [Contact](#Contact)
 
-## Screenshot
-![Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio (GIF)](./pierreandrelowenstein-gif-demo-5-out-of-6.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
+## GIF
+![Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio (GIF)](./demo_assets/16-pierre-andre-lowenstein-portfolio-demo.gif?raw=true "Pierre Andr&eacut; Lowenstein, Professional Materials Portfolio")
 
 ## Overview
 <ul>
