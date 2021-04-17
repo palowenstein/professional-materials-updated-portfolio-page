@@ -1919,6 +1919,13 @@ ul,li{
     top: -210px;
 }
 
+@media only screen and (max-width: 1023px) {
+	.image-three {
+	  display: none;
+	}
+  }
+
+
 /* Section Number */
 
 .section-number{
