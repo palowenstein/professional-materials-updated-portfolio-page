@@ -993,6 +993,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 
 
 
+
 /* 4.7 Slide Testimonials */
 
 .testimonial-carousel {
@@ -2597,7 +2598,7 @@ ul,li{
 
 .client-block .inner-box{
 	position:relative;
-	text-align:center;
+	text-align:left;
 	min-height:370px;
 	padding:40px 40px 50px;
 	background-color:#ffffff;
@@ -2641,6 +2642,7 @@ ul,li{
 
 .client-block .inner-box h3{
 	position:relative;
+	text-align:center;
 	color:#07335d;
 	font-size:22px;
 	font-weight:700;
@@ -2656,6 +2658,49 @@ ul,li{
 	line-height:1.7em;
 	margin-bottom:0px;
 }
+
+
+
+
+
+
+
+/* Old Style Portfolio Arrows brought to Code Vault */
+
+
+.client-block .inner-box .project-links .project-detail{
+	position:relative;
+	top:5px;
+	color:#ffffff;
+/*	color:#07335d; */
+	font-weight:700;
+	font-size:16px;
+	padding-right:20px;
+	text-transform:uppercase;
+}
+
+.client-block .inner-box .project-links .project-detail .arrow{
+	position:absolute;
+	top:0px;
+	left:100%;
+/*	left:100%; */
+	width:28px;
+	height:25px;
+	-webkit-transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+	transition:all 300ms ease;
+}
+
+.client-block .inner-box .project-links .project-detail:hover{
+	color:#f25850;
+}
+
+
+
+
+
 
 /*** 
 
@@ -3461,6 +3506,17 @@ select:focus{
 	color:#ffffff;
 }
 
+
+
+
+@media only screen and (max-width: 1023px) {
+	.menu-footer-copyright {
+	  display: none;
+	}
+  }
+
+
+
 .menu-main > ul > li.active a,
 .dark-layout .menu-main a:hover{
 	color:#1d3348;
@@ -3476,15 +3532,17 @@ select:focus{
 
 
 
-
-
-
+/* Changer la couleur de fond ci-dessous pour l'en-tête */
 
 .dark-layout .header{
 	z-index:10;
 	padding:10px 60px;
-	background-color: #1d3348;
+	background-color:#131d27;	
+	/* background-color: #f25850; */
+	/* background-color: #1d3348; */
 }
+
+
 
 .dark-layout .header .nav-toggle-btn{
 	top:27px;
