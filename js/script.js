@@ -76,12 +76,12 @@
 			scrollingSpeed: 280,
 			menu: '#menu, #menuMain',
 			
-			anchors: ['Home', 'Profile', 'Skills', 'Portfolio', 'Contact'],
+			anchors: ['Home', 'Profile', 'Skills', 'Portfolio', 'CodeVault', 'Contact'],
 			loopTop: false,
 			loopBottom: false,
 			navigation: {
 				'position': 'left',
-				'tooltips': ['Banner Section', 'Profile Section', 'Skills Section', 'Portfolio Section', 'Contact Section']
+				'tooltips': ['Banner Section', 'Profile Section', 'Skills Section', 'Portfolio Section', 'Code Vault Section', 'Contact Section']
 			},
 			afterRender: function(){
 				$('#pp-nav').addClass('custom');
