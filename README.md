@@ -41,7 +41,7 @@
   <li>2 page r&eacute;sum&eacute;.</li>
   <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
   <li>Technical skills section detailing fluency with all programming languages encountered to date.</li>
-  <li>Links proof of concepts / published applications when deployed.</li>
+  <li>Links to published applications when deployed.</li>
 </ul>
 
 ## GitHub
