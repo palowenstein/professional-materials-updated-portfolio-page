@@ -1,4 +1,4 @@
-## #8-#16-professional-materials-updated-portfolio-page (updated 2021-04-21)
+## #8-#16-professional-materials-updated-portfolio-page (updated 2021-04-23)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
@@ -21,8 +21,8 @@
 
 ## Overview
 <ul>
-<li>Custom online porfolio featuring assignments from weeks #1-#8, as well as earlier projects and an overrall description of the author's creative identity.</li>
-<li>Links to updated r&eacute;sum&eacute; (stored locally), GitHub, Linkedin, Twitter and other creative links.</li>
+<li>Custom online porfolio featuring professional assignments (Honda, InsightRX), assignments from weeks #3-#22 (coding vault) and an overrall description of the author's creative identity.</li>
+<li>Links to updated r&eacute;sum&eacute; (stored locally), GitHub, Linkedin. Also, links to github repositories (coding vault), deployed applications (coding vault, portfolio).</li>
 <li>The GitHub profile with pinned repositories, the updated Linkedin profile and r&eacute;sum&eacute; are part of this homework assignement and should be graded as such.</li>
 </ul>
 
@@ -41,7 +41,7 @@
   <li>2 page r&eacute;sum&eacute;.</li>
   <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
   <li>Technical skills section detailing fluency with all programming languages encountered to date.</li>
-  <li>Links to noteworthy previous assignments / works.</li>
+  <li>Links proof of concepts / published applications when deployed.</li>
 </ul>
 
 ## GitHub
