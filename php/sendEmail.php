@@ -1,9 +1,8 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "John Doe" );
-define( "RECIPIENT_EMAIL", "capricorn_j10@yahoo.com" );
-
+define( "RECIPIENT_NAME", "Pierre Andr&eacute; Lowenstein [Coder]" );
+define( "RECIPIENT_EMAIL", "coder@pierreandrelowenstein.com" );
 
 // Read the form values
 $success = false;
@@ -20,14 +19,10 @@ if ( $userName && $senderEmail && $senderServices && $senderMessage ) {
   $msgBody = " First Name: " . $userName . "\n Email : " . $senderEmail . "\n Services: " . $senderServices . "\n Message: ". $senderMessage . "";
   $success = mail( $recipient, $headers, $msgBody );
 
-  //Set Location After Successsfull Submission
-  header('Location: index.html?message=Successfull');
-  //header('Location: index.html?message=Successfull');
+  //Successful Submission otherwise else/fail
+  header('Location: ../index.html?message=Successfull');
 }
 
-//else{
-	//Set Location After Unsuccesssfull Submission
-  	//header('Location: index.html?message=Failed');	
-//}
+else{ header('Location: ../index.html?message=Failed'); }
 
 ?>
