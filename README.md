@@ -42,6 +42,8 @@
   <li>2 page r&eacute;sum&eacute;.</li>
   <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
   <li>Technical skills section detailing fluency with all programming languages encountered to date.</li>
+  <li>Projects section includes case studies of published projects.</li>
+  <li>Professional Experience section includes a timeline of all positions, projects and implementations.</li>
   <li>Links to published applications.</li>
 </ul>
 
