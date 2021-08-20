@@ -1,4 +1,4 @@
-## #8-#16-professional-materials-updated-portfolio-page (updated 2021-08-18)
+## #8-#16-professional-materials-updated-portfolio-page (updated 2021-08-20)
 
 <h3>Pierre Andr&eacute; Lowenstein, Professional Materials Portfolio</h3>
 <p>Github Repository Page: https://github.com/palowenstein/professional-materials-updated-portfolio-page</p>
@@ -33,7 +33,8 @@
   <li>Includes full name, brief bio, screen shots, project details (...)</li>
   <li>Links to GitHub profile, Linkedin Profile, professional e-mail address and phone number.</li>
   <li>Links to PDF r&eacute;sum&eacute; stored locally</li>
-  <li>Listed Projects include, respectively, a title, a brief description, a screenshot as well as links to their respective GitHub repository and deployment page.</li>
+  <li>Commercial Projects are listed in the portfolio section, research projects are listed in the codevault section.</li>
+  <li>Portfolio Projects include a title, a synopsis, a screenshot, links to their respective GitHub repository and deployment page.</li>
 </ul>
 
 ## Resume
@@ -41,7 +42,7 @@
   <li>2 page r&eacute;sum&eacute;.</li>
   <li>Heading includes name, phone number, professional email address, links to LinkedIn, portfolio and GitHub.</li>
   <li>Technical skills section detailing fluency with all programming languages encountered to date.</li>
-  <li>Links to published applications when deployed.</li>
+  <li>Links to published applications.</li>
 </ul>
 
 ## GitHub
